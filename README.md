@@ -1,5 +1,7 @@
 # Trinity-Configs-Migrator
 
+Compatible with TrinityCore 3.3.5 and Master Branch
+
 Created by CyberMist2, click [here](https://www.paypal.com/paypalme/cybermist2) to say thanks.
 
 cybermist2@gmail.com
